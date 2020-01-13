@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Feature
-#### 1. how to flush partial ui。 局部刷新
+#### 1. How to flush partial ui。 局部刷新
 - 详见 TextFormField 的 Controller-TextEditingController  原理。 
 
 #### 2. Widget 中 Key 的作用
